@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any intership
-- 📫 d_i_n_u_7 my insta page
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
